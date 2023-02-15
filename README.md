@@ -1,4 +1,3 @@
-# 手機選課App
 **學校的選課系統App，透過手機就能選課。**
 # Installation
 * Install Flutter
@@ -8,7 +7,8 @@
 # Usage
 * 需更改為自己的資料庫，而Flutter裡連接資料庫的部分，檔案路徑 : lib/mysql.dart 和 lib/course.dart
 * Entity Relationship Diagram :
-   ![](https://i.imgur.com/r5DXVxN.png)
+   ![](https://i.imgur.com/nCvReBG.png)
+
 # Demo
 * 開啟XAMPP的MySQL，建立資料庫。
 * 輸入正確帳號和密碼。
