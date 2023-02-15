@@ -1,3 +1,4 @@
+# Course-Selection-App
 **學校的選課系統App，透過手機就能選課。**
 # Installation
 * Install Flutter
@@ -12,7 +13,11 @@
 # Demo
 * 開啟XAMPP的MySQL，建立資料庫。
 * 輸入正確帳號和密碼。
+
     ![](https://i.imgur.com/EiuJjtD.gif)
 * 輸入選課編號，按下+的按鈕，就能新增課程。
 * 假設要退選，按住退選那欄，往左滑就能退選。
+
     ![](https://i.imgur.com/H2sQoNh.gif)
+
+
