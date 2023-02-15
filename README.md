@@ -18,6 +18,6 @@
 * 輸入選課編號，按下+的按鈕，就能新增課程。
 * 假設要退選，按住退選那欄，往左滑就能退選。
 
-    ![](https://i.imgur.com/H2sQoNh.gif)
+   ![](https://i.imgur.com/0RscIbc.gif)
 
 
